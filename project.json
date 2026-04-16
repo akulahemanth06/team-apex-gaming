@@ -1,0 +1,23 @@
+{
+  "overview": "Team Apex Gaming (TAG) is a premium esports team website with a dark, futuristic aesthetic. Features a hero section, player roster, match results, video highlights, and team story — all styled with orange glow effects and glassmorphism card design.",
+  "features": [
+    "Transparent sticky navbar with mobile hamburger menu",
+    "Full-viewport hero with glow headline and CTA button",
+    "Responsive player roster grid with hover glow effects",
+    "Match results cards with Win/Loss badges",
+    "YouTube highlights grid with video thumbnails",
+    "Team About section with orange accent styling",
+    "Social media footer with fan disclaimer",
+    "Fully responsive mobile and desktop layout",
+    "Smooth scroll animations with Intersection Observer"
+  ],
+  "category": "sports",
+  "tags": [
+    "esports",
+    "gaming",
+    "team-website",
+    "dark-theme",
+    "glassmorphism"
+  ],
+  "last_updated": "2026-04-16T17:06:55.120Z"
+}
